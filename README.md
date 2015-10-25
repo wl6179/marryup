@@ -1,4 +1,4 @@
-#marryup
+#marryup（ASP）
 ##访问网址是：http://www.marryup-wang-dong.com
 - 这是一个婚礼网的源代码
 - 使用 ASP 技术进行模块化开发
