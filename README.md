@@ -1,5 +1,5 @@
 #marryup（ASP）
-##效果网址：http://www.marryup-wang-dong.com
+##浏览效果：http://www.marryup-wang-dong.com
 - 这是一个婚礼网的源代码
 - 使用 ASP 技术进行模块化开发
 - 优点在于大后台使用最简洁的 设计模式 开发（主要设计的代码有 可重用的ASP 和 极简的Javascript）
